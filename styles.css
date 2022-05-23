@@ -1,0 +1,96 @@
+body {
+    background: rgb(98, 36, 241);
+    background: linear-gradient(151deg, #6224f1 19%, #67e1d6 100%);
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+    margin-bottom: 20vh;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.profile-picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    height: auto;
+    max-width: 100px;
+}
+    
+.profile {
+    text-align: center;
+    font-size: 15px;
+    letter-spacing: 2px;   
+    margin: 0;
+}
+
+a.profile:hover{
+    color: #000;
+}
+
+.name{
+    padding: 30 30 7 30px;
+}
+
+.motto{
+    padding: 7 30 30 30px;
+    font-weight: normal;
+}
+
+.header{
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    max-width: 90vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 105%;
+}
+
+.links {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid white;
+    border-width: 2px;
+    width: 290px;
+    max-width: 60vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    text-decoration: none;
+}
+
+a {
+    color: white;
+    transition: color 0.5s;
+}
+
+a.links:hover {
+    color: #000;
+    background: #fff;
+}
+
+.fa_custom {
+    color: #6224f1;
+    margin-top: 60px;
+    text-align: center; 
+    width: 100%; 
+}
+
+a i:hover{
+    color: #fbdd3b;
+}
+
+.bottom-text {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
