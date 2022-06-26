@@ -4,4 +4,9 @@ Un directorio de enlaces me parece genial para poder mostrar de un plumazo tus r
 
 Es una página sencilla realizada con HTML, CSS y Bootstrap, principalmente. Es responsive y a diferencia de mi <a href="https://arturocode.github.io/">portfolio web</a>, no tiene un modo claro/oscuro.
 
-<img src="images/linktree_github.jpg" />
+<table>
+    <tr>
+        <td><img src="images/linktree_pc.jpg" /></td>
+        <td><img src="images/linktree_movil.jpg" /></td>
+    </tr>
+</table>
