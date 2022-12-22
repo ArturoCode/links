@@ -1,4 +1,15 @@
 @charset "UTF-8";
+
+.links-container{
+    display: flex;
+}
+.links{
+    width:100%
+}
+.links a{
+    width:100%
+}
+
 /*
 Theme Name: H-Code
 Theme URI: https://hcode.themezaa.com
