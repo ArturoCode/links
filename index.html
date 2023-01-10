@@ -43,11 +43,21 @@
 
         <!-- FONDO DE PANTALLA -->
         <style>
-            body {
-                background-image: url("images/background.jpg");
-                background-repeat: no-repeat;
-                background-attachment: fixed;
-                background-size: cover;
+            @media screen and (min-width:300px){
+                body {
+                    background-image: url("images/background-mobile.jpg");
+                    background-repeat: no-repeat;
+                    background-attachment: fixed;
+                    background-size: cover;
+                }
+            }
+            @media screen and (min-width:576px){
+                body {
+                    background-image: url("images/background-desktop.jpg");
+                    background-repeat: no-repeat;
+                    background-attachment: fixed;
+                    background-size: cover;
+                }
             }
         </style>
     

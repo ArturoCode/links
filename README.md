@@ -8,7 +8,7 @@ Es una página sencilla realizada con HTML, CSS y Bootstrap, principalmente, y e
 
 <table>
     <tr>
-        <td><img src="images/links-pc.png" /></td>
-        <td><img src="images/links-movil.png" /></td>
+        <td><img src="images/links_pc.png" /></td>
+        <td><img src="images/links_movil.png" /></td>
     </tr>
 </table>
