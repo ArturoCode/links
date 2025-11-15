@@ -1525,7 +1525,7 @@
 
     /* style #2 */
     .next-previous-project-style2 div { border-bottom: 1px solid #e5e5e5;}
-    .next-previous-project-style2 a { ; padding: 20px 0;}
+    .next-previous-project-style2 a { padding: 20px 0;}
     .next-previous-project-style2 div:last-child { border-bottom: 0;}
     .next-previous-project-style2 a.border-right { border-right: 0px;}
     .next-previous-project-style2 a.previous { border-right: 0px;}
